@@ -155,3 +155,5 @@ C:\Users\eelis\Desktop\koulujuttujaaaaa\ohjelmointiprojekti_2025\ProjektiApi\obj
 C:\Users\eelis\Desktop\koulujuttujaaaaa\ohjelmointiprojekti_2025\ProjektiApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\eelis\Desktop\koulujuttujaaaaa\ohjelmointiprojekti_2025\ProjektiApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\eelis\Desktop\koulujuttujaaaaa\ohjelmointiprojekti_2025\ProjektiApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\eelis\Desktop\koulujuttujaaaaa\ohjelmointiprojekti_2025\ProjektiApi\obj\Debug\net9.0\ProjektiApi.sourcelink.json
+C:\Users\eelis\Desktop\koulujuttujaaaaa\ohjelmointiprojekti_2025\ProjektiApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
